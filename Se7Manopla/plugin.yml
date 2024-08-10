@@ -1,0 +1,7 @@
+name: Se7Manopla
+author: Se7enzito
+main: me.se7manopla.Main
+version: 0.1
+commands:
+  manopla:
+  
